@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Museomix",
+    "slug": "Museomix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Museomix"
+}
